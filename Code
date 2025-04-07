@@ -1,0 +1,7 @@
+num = 2
+print ("2")
+while num != 20:
+    num += 2
+    print (num)
+    if num == 20:
+        quit()
